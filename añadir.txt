@@ -4,4 +4,4 @@ Cambios para la prueba de gitHub
 
 cambio para github 2
 
-Cambio hecho por compañero
+Cambio hecho por compañero.
