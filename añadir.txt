@@ -1,5 +1,7 @@
-a�ado un contenido
+añado un contenido
 
 Cambios para la prueba de gitHub
 
 cambio para github 2
+
+Cambio hecho por compañero
