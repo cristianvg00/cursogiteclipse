@@ -1,12 +1,14 @@
 Cambio arriba.
 
-En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, 
-adarga antigua, rocín flaco y galgo corredor...”, así comienza Don Quijote de la Mancha, considerada la primera novela moderna y la 
-que desmitificó la tradición caballeresca y cortesana.
-=======
+Cambio 2
+
 En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivÃ­a un hidalgo de los de lanza en astillero, 
 adarga antigua, rocÃ­n flaco y galgo corredor...â€�, asÃ­ comienza Don Quijote de la Mancha, considerada la primera novela moderna y la 
 que desmitificÃ³ la tradiciÃ³n caballeresca y cortesana.
+=======
+En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivÃƒÂ­a un hidalgo de los de lanza en astillero, 
+adarga antigua, rocÃƒÂ­n flaco y galgo corredor...Ã¢â‚¬ï¿½, asÃƒÂ­ comienza Don Quijote de la Mancha, considerada la primera novela moderna y la 
+que desmitificÃƒÂ³ la tradiciÃƒÂ³n caballeresca y cortesana.
 >>>>>>> branch 'master' of https://github.com/cristianvg00/cursogiteclipse.git
 
 Cambio que SI quiero subir
